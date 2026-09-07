@@ -1,0 +1,6 @@
+Рекомендуемое описание репозитория:
+
+Неофициальный Windows-плеер для Питер FM 100.9: прямой эфир, текущий трек, обложки и история эфира.
+
+Topics:
+windows, radio, internet-radio, desktop-app, piterfm, win32, music-player, russian-radio
