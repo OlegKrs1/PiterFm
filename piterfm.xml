@@ -36,19 +36,19 @@
 
   <Program_Info>
     <Program_Name>PiterFM</Program_Name>
-    <Program_Version>1.0.0</Program_Version>
+    <Program_Version>1.0.1</Program_Version>
     <Program_Release_Month>09</Program_Release_Month>
-    <Program_Release_Day>07</Program_Release_Day>
+    <Program_Release_Day>14</Program_Release_Day>
     <Program_Release_Year>2026</Program_Release_Year>
     <Program_Cost_Dollars>0</Program_Cost_Dollars>
     <Program_Cost_Other_Code>USD</Program_Cost_Other_Code>
     <Program_Cost_Other />
     <Program_Type>Freeware</Program_Type>
-    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Release_Status>Minor Update</Program_Release_Status>
     <Program_Install_Support>No Install Support</Program_Install_Support>
     <Program_OS_Support>Windows 10,Windows 11</Program_OS_Support>
     <Program_Language>Russian</Program_Language>
-    <Program_Change_Info>First public release.</Program_Change_Info>
+    <Program_Change_Info>Fixed display of the current song title after a metadata source page change.</Program_Change_Info>
     <Program_Specific_Category>Internet Radio Player</Program_Specific_Category>
     <Program_Category_Class>Audio &amp; Multimedia::Audio File Players</Program_Category_Class>
     <Program_Categories>Audio,Internet Radio,Music</Program_Categories>
@@ -97,8 +97,8 @@
       <Application_XML_File_URL>https://raw.githubusercontent.com/OlegKrs1/PiterFM/main/piterfm.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://github.com/OlegKrs1/PiterFM/releases/download/v1.0.0/PiterFM_v1.0.0.exe</Primary_Download_URL>
-      <Secondary_Download_URL>https://github.com/OlegKrs1/PiterFM/releases/download/v1.0.0/PiterFM_v1.0.0.zip</Secondary_Download_URL>
+      <Primary_Download_URL>https://github.com/OlegKrs1/PiterFM/releases/download/v1.0.1/PiterFM_v1.0.1.exe</Primary_Download_URL>
+      <Secondary_Download_URL>https://github.com/OlegKrs1/PiterFM/releases/download/v1.0.1/PiterFM_v1.0.1.zip</Secondary_Download_URL>
       <Additional_Download_URL_1 />
       <Additional_Download_URL_2 />
     </Download_URLs>
