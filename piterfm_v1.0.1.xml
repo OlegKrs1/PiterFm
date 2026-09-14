@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>ChatGPT PAD Generator</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description (PAD) file for PiterFM.</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+
+  <Company_Info>
+    <Company_Name>OlegKrs</Company_Name>
+    <Address_1 />
+    <Address_2 />
+    <City_Town />
+    <State_Province />
+    <Zip_Postal_Code />
+    <Country />
+    <Company_WebSite_URL>https://github.com/OlegKrs1/PiterFM</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>OlegKrs</Author_First_Name>
+      <Author_Last_Name />
+      <Author_Email />
+      <Contact_First_Name>OlegKrs</Contact_First_Name>
+      <Contact_Last_Name />
+      <Contact_Email />
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email />
+      <Support_Email />
+      <General_Email />
+      <Sales_Phone />
+      <Support_Phone />
+      <General_Phone />
+      <Fax_Phone />
+    </Support_Info>
+  </Company_Info>
+
+  <Program_Info>
+    <Program_Name>PiterFM</Program_Name>
+    <Program_Version>1.0.1</Program_Version>
+    <Program_Release_Month>09</Program_Release_Month>
+    <Program_Release_Day>14</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Cost_Other_Code>USD</Program_Cost_Other_Code>
+    <Program_Cost_Other />
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>Minor Update</Program_Release_Status>
+    <Program_Install_Support>No Install Support</Program_Install_Support>
+    <Program_OS_Support>Windows 10,Windows 11</Program_OS_Support>
+    <Program_Language>Russian</Program_Language>
+    <Program_Change_Info>Fixed display of the current song title after a metadata source page change.</Program_Change_Info>
+    <Program_Specific_Category>Internet Radio Player</Program_Specific_Category>
+    <Program_Category_Class>Audio &amp; Multimedia::Audio File Players</Program_Category_Class>
+    <Program_Categories>Audio,Internet Radio,Music</Program_Categories>
+    <Program_System_Requirements>Windows 10/11 x64; Internet connection; Windows multimedia components.</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>0</File_Size_Bytes>
+      <File_Size_K>0.00</File_Size_K>
+      <File_Size_MB>0.00</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Count />
+      <Expire_Based_On />
+      <Expire_Other_Info />
+      <Expire_Month />
+      <Expire_Day />
+      <Expire_Year />
+    </Expire_Info>
+  </Program_Info>
+
+  <Program_Descriptions>
+    <English>
+      <Keywords>PiterFM,radio,internet radio,Windows,radio player,100.9 FM,Saint Petersburg,music player</Keywords>
+      <Char_Desc_45>PiterFM internet radio player for Windows</Char_Desc_45>
+      <Char_Desc_80>Unofficial Windows player for listening to Piter FM 100.9 online.</Char_Desc_80>
+      <Char_Desc_250>PiterFM is an unofficial Windows player for Piter FM 100.9. It plays the live stream without a browser, displays the current artist and song, searches for cover art and shows recently played tracks.</Char_Desc_250>
+      <Char_Desc_450>PiterFM is a lightweight unofficial desktop radio player for Windows 10 and Windows 11. The application plays the Piter FM 100.9 online stream in its own window, displays the current track and artist, searches for cover artwork, shows recently played songs and provides a custom volume control.</Char_Desc_450>
+      <Char_Desc_2000>PiterFM is a lightweight unofficial Windows application for listening to the online broadcast of Piter FM 100.9. It works as a standalone desktop player and does not require a web browser. The application includes play and stop controls, a custom volume slider, current artist and track information, automatic artwork lookup and a list of recently played songs.</Char_Desc_2000>
+    </English>
+    <Russian>
+      <Keywords>ПитерФМ,Питер FM,радио,онлайн радио,радиоплеер,Windows,100.9 FM,Санкт-Петербург,прямой эфир</Keywords>
+      <Char_Desc_45>Плеер Питер FM 100.9 для Windows</Char_Desc_45>
+      <Char_Desc_80>Неофициальный Windows-плеер для прослушивания Питер FM 100.9 онлайн.</Char_Desc_80>
+      <Char_Desc_250>PiterFM — неофициальный плеер для Windows, который воспроизводит онлайн-эфир Питер FM 100.9 без браузера, показывает исполнителя и текущий трек, ищет обложку и выводит историю недавно прозвучавших песен.</Char_Desc_250>
+      <Char_Desc_450>PiterFM — компактный неофициальный радиоплеер для Windows 10 и Windows 11. Программа воспроизводит прямой онлайн-эфир Питер FM 100.9 в отдельном окне, показывает текущего исполнителя и название композиции, подбирает обложку и выводит недавно прозвучавшие треки.</Char_Desc_450>
+      <Char_Desc_2000>PiterFM — лёгкое неофициальное приложение для Windows, предназначенное для прослушивания онлайн-эфира Питер FM 100.9. Программа работает как самостоятельный настольный плеер и не требует браузера. В интерфейсе есть запуск и остановка эфира, регулятор громкости, информация о текущем исполнителе и композиции, автоматический поиск обложки и список недавно прозвучавших треков.</Char_Desc_2000>
+    </Russian>
+  </Program_Descriptions>
+
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://github.com/OlegKrs1/PiterFM</Application_Info_URL>
+      <Application_Order_URL />
+      <Application_Screenshot_URL />
+      <Application_Icon_URL>https://raw.githubusercontent.com/OlegKrs1/PiterFM/main/assets/piterfm-icon.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://raw.githubusercontent.com/OlegKrs1/PiterFM/main/piterfm.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/OlegKrs1/PiterFM/releases/download/v1.0.1/PiterFM_v1.0.1.exe</Primary_Download_URL>
+      <Secondary_Download_URL>https://github.com/OlegKrs1/PiterFM/releases/download/v1.0.1/PiterFM_v1.0.1.zip</Secondary_Download_URL>
+      <Additional_Download_URL_1 />
+      <Additional_Download_URL_2 />
+    </Download_URLs>
+  </Web_Info>
+
+  <Permissions>
+    <Distribution_Permissions>May be distributed unchanged with attribution to OlegKrs. PiterFM is an unofficial independent project.</Distribution_Permissions>
+    <EULA>Freeware. Copyright 2026 OlegKrs. Third-party names, trademarks, music and artwork belong to their respective rights holders.</EULA>
+  </Permissions>
+</XML_DIZ_INFO>
