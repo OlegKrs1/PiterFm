@@ -449,7 +449,7 @@ static int next_clean_token(int from,int limit){
 
 static int parse_volna(TRACKDATA*d,int*age){
     memset(d,0,sizeof(*d));*age=9999;
-    if(!fetch_page_utf8(L"https://volna.top/radio/piter-fm"))return 0;
+    if(!fetch_page_utf8(L"https://volna.top/playlist/radio/piter-fm"))return 0;
     html_to_tokens(g_pagew);if(g_tokenCount<=0)return 0;
     int cur=-1,hstart=-1;
     for(int i=0;i<g_tokenCount;i++){
@@ -549,7 +549,7 @@ static int choose_metadata(TRACKDATA*out){
     for(int i=0;i<3&&best<0;i++)for(int j=i+1;j<3;j++)if(g_candidates[i].ok&&g_candidates[j].ok&&raw_same(g_candidates[i].d.raw,g_candidates[j].d.raw)){best=(g_candidates[i].age<=g_candidates[j].age)?i:j;break;}
     /* Otherwise choose the source whose latest timestamp is closest to current MSK. */
     if(best<0){for(int i=0;i<3;i++)if(g_candidates[i].ok&&(best<0||g_candidates[i].age<g_candidates[best].age))best=i;}
-    if(best<0){memset(out,0,sizeof(*out));wcpy(out->metaStatus,L"v9: источники временно не вернули корректные треки",160);return 0;}
+    if(best<0){memset(out,0,sizeof(*out));wcpy(out->metaStatus,L"v1.0.1: источники временно не вернули корректные треки",160);return 0;}
     memcpy(out,&g_candidates[best].d,sizeof(*out));
     if(out->raw[0]&&out->historyCount>0&&g_candidates[best].age<=90){
         wchar_t st[160]=L"Источник: ";int o=9;for(int i=0;g_candidates[best].source[i]&&o<150;i++)st[o++]=g_candidates[best].source[i];
